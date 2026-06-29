@@ -1,0 +1,8 @@
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    border: 10px double rgb(89, 223, 6);
+}
